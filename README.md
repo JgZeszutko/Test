@@ -1,2 +1,2 @@
 # Welcome to the Basics
-Testing and exploring the program
+# First thinkg we will learn is ASSDF
